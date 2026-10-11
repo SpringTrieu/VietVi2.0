@@ -1,0 +1,8 @@
+{
+  "name": "VietVi Front End",
+  "description": "Nền tảng kết nối Task hai phía linh hoạt, minh bạch và an toàn dành riêng cho cộng đồng sinh viên Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
